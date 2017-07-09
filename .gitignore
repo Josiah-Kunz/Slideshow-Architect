@@ -1,2 +1,30 @@
+# Unity caches and generated files
+# ================================
 **/Library
 **/Temp
+**/obj
+*.suo
+*.user
+*.pidb
+*.userprefs
+
+# Visual Studio / MonoDevelop generated
+# =====================================
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.orig
+*.app
+*.exe
+*.*_data
+
+# G4BL generated files
+# ====================
+g4bl.out
