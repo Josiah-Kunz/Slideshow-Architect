@@ -1,0 +1,12 @@
+RGSS3:
+-Events not overlapping properly to connected maps (warp to the map 'Test2' and look at the Amoonguss).
+	-Strangely enough, if you warp to the map 'Test' and look at the same Amoonguss it looks fine.
+-Doubles battles are in rough shape.
+
+LP Mode:
+-Under reconstruction! Rewriting a lot of things --I wouldn't attempt to even test it right now.
+-Problem using battle items either in the field or in battle (e.g. Pokéball) from the LP UI.
+-Need Registered Items functionality
+
+MISC:
+-Mouse wheel script works, but kills the FPS. Does anyone have more experience in this matter?

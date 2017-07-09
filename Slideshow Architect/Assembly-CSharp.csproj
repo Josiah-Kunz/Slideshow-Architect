@@ -48,6 +48,30 @@
   <ItemGroup>
      <Compile Include="Assets\Resources\Scripts\CustomAssetImporter.cs" />
      <Compile Include="Assets\Resources\Scripts\slide.cs" />
+     <None Include="Assets\Map Maker\PBS\types.txt" />
+     <None Include="Assets\Map Maker\Bug List.txt" />
+     <None Include="Assets\Map Maker\PBS\littlecuppm.txt" />
+     <None Include="Assets\Map Maker\PBS\tm.txt" />
+     <None Include="Assets\Map Maker\PBS\pikacuptr.txt" />
+     <None Include="Assets\Map Maker\PBS\pokecuptr.txt" />
+     <None Include="Assets\Map Maker\extendtext.txt" />
+     <None Include="Assets\Map Maker\PBS\metadata.txt" />
+     <None Include="Assets\Map Maker\PBS\moves.txt" />
+     <None Include="Assets\Map Maker\PBS\pokecuppm.txt" />
+     <None Include="Assets\Map Maker\PBS\bttrainers.txt" />
+     <None Include="Assets\Map Maker\PBS\connections.txt" />
+     <None Include="Assets\Map Maker\PBS\pikacuppm.txt" />
+     <None Include="Assets\Map Maker\PBS\fancycupsingletr.txt" />
+     <None Include="Assets\Map Maker\PBS\items.txt" />
+     <None Include="Assets\Map Maker\PBS\btpokemon.txt" />
+     <None Include="Assets\Map Maker\winapif.txt" />
+     <None Include="Assets\Map Maker\PBS\abilities.txt" />
+     <None Include="Assets\Map Maker\gobj.txt" />
+     <None Include="Assets\Map Maker\PBS\littlecuptr.txt" />
+     <None Include="Assets\Map Maker\animmaker.txt" />
+     <None Include="Assets\Map Maker\PBS\fancycupsinglepm.txt" />
+     <None Include="Assets\Map Maker\PBS\trainerlists.txt" />
+     <None Include="Assets\Map Maker\Credits.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

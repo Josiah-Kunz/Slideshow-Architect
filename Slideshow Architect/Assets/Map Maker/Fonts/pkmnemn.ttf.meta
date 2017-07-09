@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7dfa1dfbc5ef38a4cbacb067303d2687
+timeCreated: 1499636705
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Power Green Narrow
+  fontNames:
+  - Power Green Narrow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

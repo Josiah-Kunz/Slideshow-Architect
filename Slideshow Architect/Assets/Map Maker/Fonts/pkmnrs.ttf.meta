@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f34a1502d8ce7c546ae205e2e4994c4f
+timeCreated: 1499636705
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Power Red and Blue
+  fontNames:
+  - Power Red and Blue
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
