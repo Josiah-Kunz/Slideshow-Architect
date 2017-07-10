@@ -2,10 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class slide : MonoBehaviour {
+public class Slide : MonoBehaviour {
 
 	public string text;
-
-
 
 }
