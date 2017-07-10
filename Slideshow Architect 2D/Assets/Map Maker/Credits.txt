@@ -1,0 +1,17 @@
+joruby - found and sold the idea of rgss3
+mikb89 - fmodex for vxace
+lone wolf from rpgmaker forums - gamepad extender
+terf from from rpgmaker forums - rgss3 tutorial
+pokemon essentials team - 
+maruno - work before me/personal encouragement
+KleinStudio - BW-style get key item script
+Luka S.J. - basic elite battle system
+JV - nuzlocke mode
+Luka S.J. - mouse input
+Zeus81 - actual FPS rendering
+ForeverZer0 - in-game scripts
+Selwyn - fullscreen mode for LP
+runey from Freesound.org - map open SE
+hollowriku from Freesound.org - journal open SE
+vmgraw from Freesound.org - bag open SE
+KK20 from chaos project forums - disable alt+enter (but can still LP mode)

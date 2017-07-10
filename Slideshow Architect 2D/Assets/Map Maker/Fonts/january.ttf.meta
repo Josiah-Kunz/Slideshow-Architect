@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 555da80414f2cd44bbc534902bb5cb7d
+timeCreated: 1499636705
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: January
+  fontNames:
+  - January
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
