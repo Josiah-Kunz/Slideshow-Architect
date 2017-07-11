@@ -6,7 +6,7 @@ public class TexturePostProcessor : AssetPostprocessor{
 	void OnPostprocessTexture(Texture2D texture){
 		TextureImporter importer = assetImporter as TextureImporter;
 		importer.textureType = TextureImporterType.Sprite;
-		importer.spriteImportMode = SpriteImportMode.Single;
+		importer.spriteImportMode = SpriteImportMode.Multiple;
 		importer.wrapMode = TextureWrapMode.Clamp;
 		importer.filterMode = FilterMode.Trilinear;
 
